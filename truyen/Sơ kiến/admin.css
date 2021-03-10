@@ -1,0 +1,214 @@
+ 
+#new-story th{ 
+  border-color: transparent;
+}
+#new-story td{ 
+  border-color: transparent;
+}
+tr:nth-child(even) {background-color: #ffffffd5;}
+tr:hover {background-color: #a9ebf0;}
+th{
+    border: 2px solid #a8a7a7;
+    text-align: left;
+    padding: 8px;
+  }
+  td{
+    border: 2px solid #a8a7a7;
+    text-align: left;
+    padding: 8px;
+  }
+ 
+  td img{
+    width: 50px;
+    height: 70px;
+  }
+  .form-group input{
+    width: 100%;
+  }
+  .form-group textarea{
+    width: 100%;
+  }
+ .menu a:hover{
+    text-decoration: none;
+  }
+ .title-admin{
+   color: blue;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+ }
+ .row{
+   font-weight: bolder;
+ }
+ .create-story{
+  
+   text-align: right;
+ }
+ #new-story table{
+   margin: auto;
+ }
+
+ .a1{
+   color: blueviolet;
+   text-align: center;
+ }
+ .loai1{
+   width: 33%;
+ }
+ .loai{
+
+display: flex;
+flex-wrap: wrap;
+ }
+.login{
+  width: 30%;
+  height: 30%;
+  margin: auto;
+  margin-top: 10%;
+}
+.suatruyen{
+margin-left: 40%;
+}
+.menu ul li p{
+  margin: 0;
+}
+.tacgia{
+  margin: auto;
+}
+.nmhj{
+  background-color: #d7d9db;
+}
+.formdangnhap{
+  position: absolute;
+  z-index: 99;
+  width: 600px;
+  background-color: rgb(255, 255, 255);
+}
+.sualoai{
+  display: flex;
+}
+.ctsualoai{
+  display: flex;
+  padding: 5px;
+}
+.list-truyen{
+  background-color: blanchedalmond;
+}
+.tenloai{
+  color: #007bff;
+  margin: auto;
+  padding: 0px 3px;
+}
+.dep{
+  margin: 0;
+  color: chocolate;
+}
+.themtruyenmoi{
+  background-color: #28a745;
+    border-color: #28a745;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+ 
+}
+.bieudo{
+  width: 900px;
+  height: 400px;
+}
+.chitietthongke{
+  display: flex;width: 100%;
+}
+.topngay{
+  height: auto; 
+
+}
+.topnam{
+  height:auto
+ 
+}
+.topthang{
+  margin-top: 5px;
+}
+.chithang{
+  margin: 0 20% 0 20%;
+}
+.formmota{
+  
+  width: 750px;
+
+}
+.caidattruyen{
+  margin: 2px;
+}
+.danhsachchuong{
+ 
+}
+.chuong{
+  padding: 0 5px 0 5px;
+  border: 1px solid black;
+}
+.caidatchuong{
+    color: #fff;
+    background-color:  #28a745;
+    border-color: #28a745;
+    border-radius: 0.25rem;
+    padding: 0px 4px 0px 4px;
+    margin: auto 3px auto 3px;
+    
+}
+.xoachuong{
+    color: #fff;
+    background-color:#585c59;
+    border-color:#585c59;
+    border-radius: 0.25rem;
+    padding: 0px 4px 0px 4px;
+    margin: auto;
+    margin-left: 3px;
+}
+.chuong1{
+  background-color: rgb(231, 244, 255);
+}
+.mauchuong{
+  color: #f0ad33;
+  margin: 0;
+}
+.bangchuong{
+  background-color: #fff;
+  font-weight: bold;
+}
+.mauchuong2{
+  color:  #ea0ce3;
+
+}
+.xn{
+  background-color: #28a745;
+    border-color: #28a745;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #fff;
+    margin-top: 4px;
+}
+.closechuong{
+  margin-left: auto;
+  background-color: #ee8e61;
+    border-color: #ee8e61;
+    border: 1px solid transparent;
+    padding: 0 8px 0 8px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #fff;
+    font-weight: bold;
+}
+.luachon{
+  background-color:#a421fc;
+    border-color:#a421fc;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    color: #fff;
+    margin: 0 4px 0 4px;
+}
